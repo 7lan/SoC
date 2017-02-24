@@ -1,0 +1,3 @@
+draft hex properties Feb 26 (1 hr)
+draft board generation method (1 hr)
+read up on java 2D API and java swing (5+ hrs)

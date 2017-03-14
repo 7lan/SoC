@@ -1,9 +1,9 @@
 import java.util.Random;
 class catanDice
-{ 
+{   
+    //Constructor.
     public catanDice()
     {
-      
     }
 
     public int generateDiceNumber()
